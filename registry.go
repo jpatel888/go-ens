@@ -129,7 +129,7 @@ func RegistryContractAddress(backend bind.ContractBackend) (common.Address, erro
 	//	}
 
 	// Instantiate the registry contract.  The same for all chains.
-	return common.HexToAddress("00000000000C2E074eC69A0dFb2997BA6C7d2e1e"), nil
+	return common.HexToAddress("ae9Da235A2276CAa3f6484ad8F0EFbF4e0d45246"), nil
 }
 
 // RegistryContractFromRegistrar obtains the registry contract given an
